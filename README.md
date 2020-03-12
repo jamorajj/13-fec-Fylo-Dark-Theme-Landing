@@ -2,7 +2,7 @@
 
 Frontend Challenge - Fylo Dark Theme Landing
 
-Solution for Fylo Dark Theme Landing challenge
+Solution for Fylo Dark Theme Landing challenge.
 
 # Frontend Mentor - Fylo Dark Theme Landing
 
